@@ -15,6 +15,13 @@ The project was initiated with the following problem statement provided by our c
 ## Clinical Discovery
 
 ### Why Cancer?
-blah blha
-### Long-term Chemotherapy
-blah blah
+Cancer remains a major public health concern in Singapore, with the number of newly diagnosed cases increasing over the years. According to the Singapore Cancer Registry Annual Report 2023, a total of 91,574 new cancer cases were reported in Singapore between 2019 and 2023, equivalent to an average of approximately 50 new cancer diagnoses per day (National Registry of Diseases Office, 2026).
+
+This growing cancer burden highlights the importance of improving cancer treatment and care delivery. Chemotherapy remains an important treatment modality for many cancer patients, often requiring multiple treatment cycles administered over an extended period. For the purpose of this project, long-term chemotherapy is defined by our clinical mentors as chemotherapy treatment lasting three months or longer. During this period, patients may undergo repeated chemotherapy cycles, each requiring reliable vascular access for drug administration.
+
+As such, safe and reliable long-term venous access is essential to facilitate repeated chemotherapy administration while minimising vascular access-related complications, treatment interruptions, and patient discomfort. Improving existing vascular access solutions could therefore contribute to a safer and more comfortable treatment experience, ultimately enhancing the quality of life of patients undergoing long-term chemotherapy.
+
+### Types of vascular access
+
+## References
+National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual Report 2023. Health Promotion Board. https://www.nrdo.gov.sg/publications/singapore-cancer-registry-annual-report-2023/
