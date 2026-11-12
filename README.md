@@ -22,6 +22,13 @@ This growing cancer burden highlights the importance of improving cancer treatme
 As such, safe and reliable long-term venous access is essential to facilitate repeated chemotherapy administration while minimising vascular access-related complications, treatment interruptions, and patient discomfort. Improving existing vascular access solutions could therefore contribute to a safer and more comfortable treatment experience, ultimately enhancing the quality of life of patients undergoing long-term chemotherapy.
 
 ### Types of vascular access
+There are three main types of vascular access devices commonly used for chemotherapy administration: peripheral intravenous catheters (PIVCs), peripherally inserted central catheters (PICCs), and totally implantable venous access ports (Port-a-Caths). Each method offers distinct advantages and limitations in terms of ease of insertion, infection risk, patient comfort, and suitability for long-term chemotherapy administration.
+
+A PIVC is a short, flexible cannula inserted into a peripheral vein, typically in the hand or forearm, to provide temporary vascular access for the administration of medications and fluids. One of its main advantages is that it can be placed by a trained healthcare professional without requiring a surgical procedure. They also generally carry a lower risk of infection. However, PIVC insertion can be challenging in patients with difficult-to-access veins, sometimes requiring multiple attempts to locate and cannulate a suitable vein. Repeated needle punctures can cause pain and discomfort, while frequent cannulation and exposure to certain chemotherapy drugs may lead to phlebitis (inflammation of the vein) and potential venous damage. Over time, repeated vascular injury may compromise vein integrity, making subsequent venous access increasingly difficult.
+
+
+
+
 
 ## References
 National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual Report 2023. Health Promotion Board. https://www.nrdo.gov.sg/publications/singapore-cancer-registry-annual-report-2023/
