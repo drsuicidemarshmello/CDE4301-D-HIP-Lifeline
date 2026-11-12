@@ -55,6 +55,10 @@ This insight prompted our team to shift our focus from redesigning existing cent
 
 As such, our team revised the initial problem statement to address this unmet clinical need: **There is a need for a way to protect peripheral veins from chemotherapy-induced damage in port-eligible patients who decline a port, reducing chemotherapy-related phlebitis from 30% to below 15%, so that peripheral access stays usable for the full course of treatment.**
 
+## Commercial Discover
+
+### Market Sizing
+
 ## References
 National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual Report 2023. Health Promotion Board. https://www.nrdo.gov.sg/publications/singapore-cancer-registry-annual-report-2023/
 
