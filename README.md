@@ -40,7 +40,23 @@ A Port-a-Cath is a small, fully implanted device that provides long-term central
 However, Port-a-Cath placement requires a more invasive insertion procedure, involving the creation of a subcutaneous pocket to accommodate the port reservoir and the placement of a catheter into the central venous system. Additionally, unlike a PICC, which can be accessed through a standard Luer-lock connection, a Port-a-Cath requires specially trained healthcare professionals to access the implanted reservoir using a Huber needle for chemotherapy administration.
 
 ### Clinical Findings
+Through clinical observations and stakeholder interviews, our team sought to better understand the challenges associated with existing vascular access methods for chemotherapy administration. A total of 31 stakeholder interviews were conducted, comprising 8 interventional radiology (IR) clinicians and staff, 4 medical oncology clinicians and staff, 3 BD industry personnel, and 16 patients.
 
+Overall, the findings indicated that the Port-a-Cath, the current gold standard, remains a well-established and effective solution for long-term chemotherapy administration, with generally positive feedback from both healthcare professionals and patients. Most stakeholders expressed satisfaction with its reliability, functionality, and suitability for repeated chemotherapy administration.
+
+However, one significant finding emerged from our interviews with medical oncology clinicians: approximately 50% of patients who were eligible for a Port-a-Cath reportedly declined implantation, despite its clinical benefits. Common reasons cited included an aversion to undergoing an additional invasive procedure, reluctance to have a foreign object permanently implanted in the body, and concerns that the port might interfere with their daily activities.
+
+For patients who decline port implantation, chemotherapy may instead be administered through PIVC. However, repeated peripheral administration of chemotherapy can cause venous irritation and inflammation, potentially resulting in phlebitis in approximately 30% of patients (Sudhakar et al., 2023). As peripheral veins become increasingly inflamed, scarred, or unsuitable for cannulation, establishing reliable venous access may become progressively more challenging. This can lead to repeated cannulation attempts, increased pain and discomfort, and potential delays in chemotherapy administration. Consequently, some patients may eventually require a PICC or Port-a-Cath to continue treatment safely and reliably, despite their initial reluctance to undergo central venous access placement.
+
+#### Refinement of the Clinical Need Statement
+Based on these clinical findings, our team recognised that the primary challenge was not necessarily to improve the existing Port-a-Cath, but rather to address the unmet needs of patients who are unwilling to undergo port implantation. While Port-a-Caths remain an effective solution for long-term chemotherapy administration, a significant proportion of eligible patients may decline them due to concerns about procedural invasiveness, the presence of an implanted foreign body, and potential interference with daily activities.
+
+This insight prompted our team to shift our focus from redesigning existing central venous access devices towards exploring ways to make peripheral intravenous access safer and more sustainable for patients undergoing repeated chemotherapy cycles. In particular, we identified chemotherapy-induced phlebitis and progressive peripheral venous damage as key challenges that could compromise vascular access over the course of treatment.
+
+As such, our team revised the initial problem statement to address this unmet clinical need: **There is a need for a way to protect peripheral veins from chemotherapy-induced damage in port-eligible patients who decline a port, reducing chemotherapy-related phlebitis from 30% to below 15%, so that peripheral access stays usable for the full course of treatment.**
 
 ## References
 National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual Report 2023. Health Promotion Board. https://www.nrdo.gov.sg/publications/singapore-cancer-registry-annual-report-2023/
+
+Sudhakar et al. (2023). J Oncol Pharm Pract. doi.org/10.1177/10781552231161517
+
