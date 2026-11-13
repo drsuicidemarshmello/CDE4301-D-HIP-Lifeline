@@ -110,6 +110,11 @@ These findings provided preliminary technical support for both concepts, demonst
 ### CAD design
 ### CFD findings
 
+## Conclusion
+Through clinical observations, stakeholder interviews, and market analysis, our team identified an unmet need among cancer patients who decline Port-a-Cath implantation despite requiring repeated chemotherapy administration. This led us to shift our focus towards developing a minimally invasive solution that protects peripheral veins from chemotherapy-induced damage while preserving reliable venous access throughout treatment. Following concept generation, evaluation, and preliminary literature research, coaxial liquid flow was selected as the most promising concept for further development. By exploring the use of a protective fluid layer between chemotherapy drugs and the venous wall, our team aims to reduce the incidence of chemotherapy-related phlebitis and improve the overall treatment experience for patients.
+
+Moving forward, our team will continue prototype development and testing to optimise key flow parameters and evaluate additional catheter designs, with the aim of developing a final solution that can effectively minimise chemotherapy exposure to the venous wall. We will also continue engaging with medical oncology clinicians and nurses to better understand chemotherapy drug interactions, compatibility considerations, and practical requirements for clinical implementation. Additionally, patient feedback will be gathered to evaluate the proposed solution against existing vascular access methods, particularly in terms of comfort, convenience, and willingness to adopt the device.
+
 ## References
 National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual Report 2023. Health Promotion Board. https://www.nrdo.gov.sg/publications/singapore-cancer-registry-annual-report-2023/
 
