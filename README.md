@@ -64,6 +64,9 @@ To evaluate the commercial potential of our proposed solution, our team conducte
 
 According to the Singapore Cancer Registry, approximately 18,000 new cancer cases are diagnosed annually in Singapore (National Registry of Diseases Office, 2026). Based on estimates provided by our industry partner, BD, approximately 30% of these patients are clinically eligible for a Port-a-Cath, representing around 5,400 patients annually. However, our clinical findings suggest that approximately 50% of port-eligible patients decline port implantation, leaving an estimated 2,700 patients per year, or 15% of newly diagnosed cancer patients, who could potentially benefit from improved peripheral venous access solutions.
 
+Importantly, the recurring nature of chemotherapy further amplifies this unmet clinical need. Patients typically undergo multiple chemotherapy cycles over an extended treatment period, with some treatment regimens requiring frequent or even daily administration. Consequently, the potential value of our proposed solution extends beyond the number of individual patients, as each chemotherapy session represents another instance where peripheral venous access must be established and maintained. This highlights the potential for repeated utilisation of our solution throughout a patient's treatment journey.
+
+### Market Gap Analysis
 
 ## References
 National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual Report 2023. Health Promotion Board. https://www.nrdo.gov.sg/publications/singapore-cancer-registry-annual-report-2023/
