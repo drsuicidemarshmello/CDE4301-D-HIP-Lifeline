@@ -54,7 +54,7 @@ As such, our team revised the initial problem statement to address this unmet cl
 ## Commercial Discovery
 
 ### Market Sizing
-To evaluate the commercial potential of our proposed solution, our team conducted a preliminary market sizing analysis to estimate the number of patients who could benefit from improved peripheral venous access during chemotherapy.
+To evaluate the commercial potential of our proposed solution, our team conducted a preliminary market sizing analysis (Figure 1) to estimate the number of patients who could benefit from improved peripheral venous access during chemotherapy.
 
 <img width="1920" height="1080" alt="D-HIP Midpoint Presentation (1)" src="https://github.com/user-attachments/assets/e0378446-8171-4255-a9ac-9c37f8ec4ac6" />
 <p align="center">
@@ -66,9 +66,12 @@ According to the Singapore Cancer Registry, approximately 18,000 new cancer case
 Importantly, the recurring nature of chemotherapy further amplifies this unmet clinical need. Patients typically undergo multiple chemotherapy cycles over an extended treatment period, with some treatment regimens requiring frequent or even daily administration. Consequently, the potential value of our proposed solution extends beyond the number of individual patients, as each chemotherapy session represents another instance where peripheral venous access must be established and maintained. This highlights the potential for repeated utilisation of our solution throughout a patient's treatment journey.
 
 ### Market Gap Analysis
-To further evaluate the commercial opportunity, our team compared existing vascular access methods against key patient and clinical needs identified through stakeholder interviews. As illustrated in the table below, each method presents distinct advantages and limitations, highlighting the trade-offs between procedural invasiveness, long-term reliability, and patient comfort.
+To further evaluate the commercial opportunity, our team compared existing vascular access methods against key patient and clinical needs identified through stakeholder interviews. As illustrated in Figure 2, each method presents distinct advantages and limitations, highlighting the trade-offs between procedural invasiveness, long-term reliability, and patient comfort.
 
 <img width="1920" height="1080" alt="D-HIP Midpoint Presentation" src="https://github.com/user-attachments/assets/aa0dbc4e-9443-4d60-9671-ef4c6c509212" />
+<p align="center">
+  <strong>Figure 2:</strong> <em>Market Gap Analysis</em>
+</p>
 
 While Port-a-Caths provide reliable long-term venous access, they require an invasive implantation procedure. Conversely, PIVCs offer a minimally invasive alternative but expose peripheral veins to potential chemotherapy-induced damage, while PICCs require external tubing and ongoing maintenance. This comparison highlights a market gap for a minimally invasive vascular access solution that preserves peripheral vein integrity while providing the reliability and comfort associated with long-term central venous access devices. Our proposed solution, Lifeline, aims to address this gap by improving the safety and sustainability of peripheral chemotherapy administration without requiring an implanted port or external catheter between treatment sessions.
 
