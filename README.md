@@ -46,7 +46,7 @@ Overall, the findings indicated that the Port-a-Cath, the current gold standard,
 
 However, one significant finding emerged from our interviews with medical oncology clinicians: approximately 50% of patients who were eligible for a Port-a-Cath reportedly declined implantation, despite its clinical benefits. Common reasons cited included an aversion to undergoing an additional invasive procedure, reluctance to have a foreign object permanently implanted in the body, and concerns that the port might interfere with their daily activities.
 
-For patients who decline port implantation, chemotherapy may instead be administered through PIVC. However, repeated peripheral administration of chemotherapy can cause venous irritation and inflammation, potentially resulting in phlebitis in approximately 30% of patients (Sudhakar et al., 2023). As peripheral veins become increasingly inflamed, scarred, or unsuitable for cannulation, establishing reliable venous access may become progressively more challenging. This can lead to repeated cannulation attempts, increased pain and discomfort, and potential delays in chemotherapy administration. Consequently, some patients may eventually require a PICC or Port-a-Cath to continue treatment safely and reliably, despite their initial reluctance to undergo central venous access placement.
+For patients who decline port implantation, chemotherapy may instead be administered through PIVC. However, repeated peripheral administration of chemotherapy can cause venous irritation and inflammation, potentially resulting in phlebitis in approximately 30% of patients (Sudhakar et al., 2023). As peripheral veins become increasingly inflamed, scarred, or unsuitable for cannulation, establishing reliable venous access may become progressively more challenging. This can lead to repeated cannulation attempts, increased pain and discomfort, and potential delays in chemotherapy administration. Inevitably, some patients may eventually require a PICC or Port-a-Cath to continue treatment safely and reliably, despite their initial reluctance to undergo central venous access placement.
 
 #### Refinement of the Clinical Need Statement
 Based on these clinical findings, our team recognised that the primary challenge was not necessarily to improve the existing Port-a-Cath, but rather to address the unmet needs of patients who are unwilling to undergo port implantation. While Port-a-Caths remain an effective solution for long-term chemotherapy administration, a significant proportion of eligible patients may decline them due to concerns about procedural invasiveness, the presence of an implanted foreign body, and potential interference with daily activities.
@@ -55,9 +55,15 @@ This insight prompted our team to shift our focus from redesigning existing cent
 
 As such, our team revised the initial problem statement to address this unmet clinical need: **There is a need for a way to protect peripheral veins from chemotherapy-induced damage in port-eligible patients who decline a port, reducing chemotherapy-related phlebitis from 30% to below 15%, so that peripheral access stays usable for the full course of treatment.**
 
-## Commercial Discover
+## Commercial Discovery
 
 ### Market Sizing
+To evaluate the commercial potential of our proposed solution, our team conducted a preliminary market sizing analysis to estimate the number of patients who could benefit from improved peripheral venous access during chemotherapy.
+
+<img width="646" height="394" alt="Screenshot 2026-11-13 095028" src="https://github.com/user-attachments/assets/5bdb0f91-96cc-4f7e-ba72-0b9b6626413b" />
+
+According to the Singapore Cancer Registry, approximately 18,000 new cancer cases are diagnosed annually in Singapore (National Registry of Diseases Office, 2026). Based on estimates provided by our industry partner, BD, approximately 30% of these patients are clinically eligible for a Port-a-Cath, representing around 5,400 patients annually. However, our clinical findings suggest that approximately 50% of port-eligible patients decline port implantation, leaving an estimated 2,700 patients per year, or 15% of newly diagnosed cancer patients, who could potentially benefit from improved peripheral venous access solutions.
+
 
 ## References
 National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual Report 2023. Health Promotion Board. https://www.nrdo.gov.sg/publications/singapore-cancer-registry-annual-report-2023/
