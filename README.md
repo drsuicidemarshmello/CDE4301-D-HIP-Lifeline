@@ -85,20 +85,29 @@ Ultimately, Lifeline seeks to bridge the gap between existing peripheral and cen
 Before developing potential solutions, our team established a set of must-have and good-to-have design criteria based on the clinical needs and stakeholder insights identified during the discovery phase. These criteria served as a framework for evaluating potential concepts, ensuring that the proposed solutions would address key clinical challenges while remaining practical for implementation.
 
 <img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx" src="https://github.com/user-attachments/assets/152c3b2d-bbdc-4771-b539-a4f71c7cfe9e" />
+<p align="center">
+  <strong>Figure 3:</strong> <em>Breakdown of Design Criteria</em>
+</p>
 
-As illustrated above, the must-have criteria represent the essential requirements that every proposed concept should fulfil. These include maintaining an infection rate of 2% or lower, using the estimated infection rate of existing Port-a-Caths as a benchmark, ensuring compatibility with chemotherapy drugs, including vesicants, and preserving peripheral vein patency throughout a minimum treatment duration of three months. Additionally, device insertion and removal should be less invasive than Port-a-Cath implantation. The good-to-have criteria focus on enhancing clinical usability, versatility, and patient convenience. These include compatibility with existing clinical workflows and other intravenous therapies, ease of use, and minimal disruption to patients' daily activities.
+As illustrated in Figure 3, the must-have criteria represent the essential requirements that every proposed concept should fulfil. These include maintaining an infection rate of 2% or lower, using the estimated infection rate of existing Port-a-Caths as a benchmark, ensuring compatibility with chemotherapy drugs, including vesicants, and preserving peripheral vein patency throughout a minimum treatment duration of three months. Additionally, device insertion and removal should be less invasive than Port-a-Cath implantation. The good-to-have criteria focus on enhancing clinical usability, versatility, and patient convenience. These include compatibility with existing clinical workflows and other intravenous therapies, ease of use, and minimal disruption to patients' daily activities.
 
 ### Concept Generation
-Guided by these design criteria, our team explored a range of potential solutions aimed at reducing chemotherapy-induced peripheral venous damage. As illustrated below, the concepts generated were broadly categorised into physical protection, chemical protection, and alternative vascular access designs.
+Guided by these design criteria, our team explored a range of potential solutions aimed at reducing chemotherapy-induced peripheral venous damage. As shown in Figure 4, we broadly categorised the concepts into physical protection, chemical protection, and alternative vascular access designs.
 
 <img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (1)" src="https://github.com/user-attachments/assets/cf4512df-dcf0-4124-a1ce-6c323a603ff0" />
+<p align="center">
+  <strong>Figure 4:</strong> <em>Breakdown of Concepts Generated</em>
+</p>
 
 Physical protection concepts focused on modifying catheter designs or fluid flow patterns to minimise direct contact between chemotherapy drugs and the venous wall, while chemical protection concepts explored the use of protective fluids or agents to reduce venous irritation and inflammation. Alternative vascular access designs were also considered to address limitations associated with existing devices. Following preliminary discussions and evaluation, five concepts were shortlisted for further assessment: telescoping catheter, wearable flat port, off-axis catheter tip, coaxial liquid flow, and chemical vein protection
 
 ### Concept Evaluation and Selection
-The five shortlisted concepts were evaluated against the established must-have and good-to-have criteria using a scoring matrix, with each criterion rated on a scale of 1 to 5, where 5 represented the highest level of suitability, as illustrated below.
+The five shortlisted concepts were evaluated against the established must-have and good-to-have criteria using a scoring matrix, with each criterion rated on a scale of 1 to 5, where 5 represented the highest level of suitability, as illustrated in Figure 5.
 
 <img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (2)" src="https://github.com/user-attachments/assets/91e350c7-d4a7-4652-9c2f-ed0e24e344e8" />
+<p align="center">
+  <strong>Figure 5:</strong> <em>Evaluation of shortlisted concepts</em>
+</p>
 
 The telescoping catheter received a score of 30/45, primarily due to its procedural complexity. As the concept involves advancing a catheter further into the vasculature during each treatment session, similar to aspects of PICC insertion, it may require specially trained personnel, making it less compatible with existing clinical workflows. The wearable flat port received the lowest score of 25/45, largely due to concerns regarding infection risk associated with its externally accessible components.
 
@@ -114,9 +123,12 @@ These findings provided preliminary technical support for both concepts, demonst
 
 ## Prototyping Phase
 ### Concept design: Coaxial Flow Catheter
-Following the concept evaluation, our team developed a preliminary coaxial flow catheter design aimed at minimising direct contact between chemotherapy drugs and the peripheral venous wall. As illustrated below, the proposed catheter incorporates a dual-flow arrangement, consisting of a central channel for chemotherapy delivery and a surrounding channel for saline or other potentially suitable secondary fluids.
+Following the concept evaluation, our team developed a preliminary coaxial flow catheter design aimed at minimising direct contact between chemotherapy drugs and the peripheral venous wall. As illustrated in Figure 6, the proposed catheter incorporates a dual-flow arrangement, consisting of a central channel for chemotherapy delivery and a surrounding channel for saline or other potentially suitable secondary fluids.
 
 <img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (3)" src="https://github.com/user-attachments/assets/1ca00770-5a93-45d0-ac2d-31845204bc2a" />
+<p align="center">
+  <strong>Figure 6:</strong> <em>Coaxial Flow Catheter Design</em>
+</p>
 
 The design aims to establish a core-annular flow configuration, where chemotherapy is delivered through the central channel while a secondary fluid flows through the surrounding channel, forming a protective fluid layer between the chemotherapy stream and the venous wall. By maintaining the chemotherapy stream near the centre of the vessel, the surrounding fluid could potentially reduce direct exposure of the venous endothelium to chemotherapy drugs, thereby minimising irritation and inflammation. For the initial design, saline was selected as the secondary fluid. However, alternative fluids may also be explored, subject to further testing and optimisation to evaluate their suitability, chemical compatibility with chemotherapy drugs, and potential effects on drug stability, therapeutic efficacy, and patient safety. 
 
