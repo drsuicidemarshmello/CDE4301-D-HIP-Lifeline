@@ -79,7 +79,7 @@ Building upon the identified market gap, our team developed the following value 
 Ultimately, Lifeline seeks to bridge the gap between existing peripheral and central venous access solutions by addressing both the clinical need for reliable chemotherapy administration and patients' preferences for less invasive treatment options.
 
 ## Design Phase
-### Needs Criteria
+### Design Criteria
 Before developing potential solutions, our team established a set of must-have and good-to-have design criteria based on the clinical needs and stakeholder insights identified during the discovery phase. These criteria served as a framework for evaluating potential concepts, ensuring that the proposed solutions would address key clinical challenges while remaining practical for implementation.
 
 <img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx" src="https://github.com/user-attachments/assets/152c3b2d-bbdc-4771-b539-a4f71c7cfe9e" />
@@ -87,7 +87,20 @@ Before developing potential solutions, our team established a set of must-have a
 As illustrated above, the must-have criteria represent the essential requirements that every proposed concept should fulfil. These include maintaining an infection rate of 2% or lower, using the estimated infection rate of existing Port-a-Caths as a benchmark, ensuring compatibility with chemotherapy drugs, including vesicants, and preserving peripheral vein patency throughout a minimum treatment duration of three months. Additionally, device insertion and removal should be less invasive than Port-a-Cath implantation. The good-to-have criteria focus on enhancing clinical usability, versatility, and patient convenience. These include compatibility with existing clinical workflows and other intravenous therapies, ease of use, and minimal disruption to patients' daily activities.
 
 ### Concept Generation
+Guided by these design criteria, our team explored a range of potential solutions aimed at reducing chemotherapy-induced peripheral venous damage. As illustrated below, the concepts generated were broadly categorised into physical protection, chemical protection, and alternative vascular access designs.
 
+<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (1)" src="https://github.com/user-attachments/assets/cf4512df-dcf0-4124-a1ce-6c323a603ff0" />
+
+Physical protection concepts focused on modifying catheter designs or fluid flow patterns to minimise direct contact between chemotherapy drugs and the venous wall, while chemical protection concepts explored the use of protective fluids or agents to reduce venous irritation and inflammation. Alternative vascular access designs were also considered to address limitations associated with existing devices. Following preliminary discussions and evaluation, five concepts were shortlisted for further assessment: telescoping catheter, wearable flat port, off-axis catheter tip, coaxial liquid flow, and chemical vein protection
+
+### Concept Evaluation and selection
+The five shortlisted concepts were evaluated against the established must-have and good-to-have criteria using a scoring matrix, with each criterion rated on a scale of 1 to 5, where 5 represented the highest level of suitability, as illustrated below.
+
+<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (2)" src="https://github.com/user-attachments/assets/91e350c7-d4a7-4652-9c2f-ed0e24e344e8" />
+
+The telescoping catheter received a score of 30/45, primarily due to its procedural complexity. As the concept involves advancing a catheter further into the vasculature during each treatment session, similar to aspects of PICC insertion, it may require specially trained personnel, making it less compatible with existing clinical workflows. The wearable flat port received the lowest score of 25/45, largely due to concerns regarding infection risk associated with its externally accessible components.
+
+The chemical vein protection concept received a score of 31/45, with technical feasibility being its main limitation. Identifying a suitable protective agent would require careful consideration of its anti-inflammatory properties, chemical compatibility with chemotherapy drugs, and potential effects on drug stability, therapeutic efficacy, and patient safety.
 ### Prototyping
 
 ## References
