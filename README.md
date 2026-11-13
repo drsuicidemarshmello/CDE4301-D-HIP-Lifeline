@@ -57,6 +57,7 @@ As such, our team revised the initial problem statement to address this unmet cl
 To evaluate the commercial potential of our proposed solution, our team conducted a preliminary market sizing analysis to estimate the number of patients who could benefit from improved peripheral venous access during chemotherapy.
 
 <img width="1920" height="1080" alt="D-HIP Midpoint Presentation (1)" src="https://github.com/user-attachments/assets/e0378446-8171-4255-a9ac-9c37f8ec4ac6" />
+**Figure 1:** *Market Sizing Analysis*
 
 According to the Singapore Cancer Registry, approximately 18,000 new cancer cases are diagnosed annually in Singapore (National Registry of Diseases Office, 2026). Based on estimates provided by our industry partner, BD, approximately 30% of these patients are clinically eligible for a Port-a-Cath, representing around 5,400 patients annually. However, our clinical findings suggest that approximately 50% of port-eligible patients decline port implantation, leaving an estimated 2,700 patients per year, or 15% of newly diagnosed cancer patients, who could potentially benefit from improved peripheral venous access solutions.
 
