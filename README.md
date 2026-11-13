@@ -8,10 +8,6 @@ The project is guided by our clinical mentors, Dr Too and Dr Heng, from the Depa
 
 The project was initiated with the following problem statement provided by our clinical mentors: **A safe and reliable way to deliver long-term systemic chemotherapy for oncology patients while reducing vascular access-related complications, treatment interruptions, and patient burden. This initial problem statement serves as the foundation for our team's exploration of existing vascular access methods used in chemotherapy delivery.** Through clinical observations, stakeholder interviews, and research into current practices, our team seeks to identify key challenges and opportunities for innovation that could improve the safety, reliability, and overall patient experience of long-term chemotherapy administration.
 
-> **Initial Problem Statement**
->
-> A safe and reliable way to deliver long-term systemic chemotherapy for oncology patients while reducing vascular access-related complications, treatment interruptions, and patient burden.
-
 ## Clinical Discovery
 
 ### Why Cancer?
@@ -101,10 +97,24 @@ The five shortlisted concepts were evaluated against the established must-have a
 The telescoping catheter received a score of 30/45, primarily due to its procedural complexity. As the concept involves advancing a catheter further into the vasculature during each treatment session, similar to aspects of PICC insertion, it may require specially trained personnel, making it less compatible with existing clinical workflows. The wearable flat port received the lowest score of 25/45, largely due to concerns regarding infection risk associated with its externally accessible components.
 
 The chemical vein protection concept received a score of 31/45, with technical feasibility being its main limitation. Identifying a suitable protective agent would require careful consideration of its anti-inflammatory properties, chemical compatibility with chemotherapy drugs, and potential effects on drug stability, therapeutic efficacy, and patient safety.
-### Prototyping
+
+The off-axis catheter tip and coaxial liquid flow concepts achieved the highest overall scores of 40/45 each. Both concepts demonstrated potential for reducing direct chemotherapy exposure to the venous wall while maintaining a relatively minimally invasive approach. To further assess their technical feasibility, our team reviewed existing literature investigating catheter design modifications and controlled fluid flow patterns.
+
+A study demonstrated that a modified catheter with an off-axis tip aperture produced a sharper infusate flow angle away from the vein wall compared to a conventional central-opening catheter. This redirection of fluid flow may potentially reduce direct impingement on the venous wall and associated vascular trauma (Bahl et al.,2024).
+
+Similarly, another study demonstrated the application of core-annular flow to improve the injectability of highly concentrated drug formulations. This approach utilises a coaxial flow arrangement in which the drug formulation is concentrated within a central fluid core, surrounded by an outer lubricating fluid layer (Jayaprakash et al.,2020). Although the study focused on improving drug injectability rather than preventing chemotherapy-induced phlebitis, it provides a useful foundation for investigating whether a similar flow configuration could establish a protective fluid layer between chemotherapy drugs and the venous wall.
+
+These findings provided preliminary technical support for both concepts, demonstrating how modifications to catheter geometry and fluid flow arrangements could potentially influence drug delivery patterns. Although both concepts performed equally well in the initial evaluation, our team ultimately selected coaxial liquid flow for the prototyping phase. This approach offers the potential to establish a surrounding fluid layer that minimises direct contact between chemotherapy drugs and the venous wall. The subsequent prototyping phase will therefore focus on investigating the feasibility of generating and maintaining a stable coaxial flow configuration under conditions relevant to peripheral intravenous infusion.
+
+## Prototyping phase
+### CAD design
+### CFD findings
 
 ## References
 National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual Report 2023. Health Promotion Board. https://www.nrdo.gov.sg/publications/singapore-cancer-registry-annual-report-2023/
 
 Sudhakar et al. (2023). J Oncol Pharm Pract. doi.org/10.1177/10781552231161517
 
+Bahl, A., Gibson, S. M., & Walton, A. (2024). Optimizing infusate flow patterns for minimizing vein wall trauma: An exploratory study with a modified off-axis catheter tip opening. Therapeutics and Clinical Risk Management, Volume 20, 559–566. https://doi.org/10.2147/tcrm.s479846
+
+Jayaprakash, V., Costalonga, M., Dhulipala, S., & Varanasi, K. K. (2020). Enhancing the Injectability of High Concentration Drug Formulations Using Core Annular Flows. Advanced healthcare materials, 9(18), e2001022. https://doi.org/10.1002/adhm.202001022
