@@ -80,6 +80,11 @@ Ultimately, Lifeline seeks to bridge the gap between existing peripheral and cen
 
 ## Design Phase
 ### Needs Criteria
+Before developing potential solutions, our team established a set of must-have and good-to-have design criteria based on the clinical needs and stakeholder insights identified during the discovery phase. These criteria served as a framework for evaluating potential concepts, ensuring that the proposed solutions would address key clinical challenges while remaining practical for implementation.
+
+<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx" src="https://github.com/user-attachments/assets/152c3b2d-bbdc-4771-b539-a4f71c7cfe9e" />
+
+As illustrated above, the must-have criteria represent the essential requirements that every proposed concept should fulfil. These include maintaining an infection rate of 2% or lower, using the estimated infection rate of existing Port-a-Caths as a benchmark, ensuring compatibility with chemotherapy drugs, including vesicants, and preserving peripheral vein patency throughout a minimum treatment duration of three months. Additionally, device insertion and removal should be less invasive than Port-a-Cath implantation. The good-to-have criteria focus on enhancing clinical usability, versatility, and patient convenience. These include compatibility with existing clinical workflows and other intravenous therapies, ease of use, and minimal disruption to patients' daily activities.
 
 ### Concept Generation
 
