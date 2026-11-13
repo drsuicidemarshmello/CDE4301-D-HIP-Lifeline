@@ -17,20 +17,20 @@ This growing cancer burden highlights the importance of improving cancer treatme
 
 As such, safe and reliable long-term venous access is essential to facilitate repeated chemotherapy administration while minimising vascular access-related complications, treatment interruptions, and patient discomfort. Improving existing vascular access solutions could therefore contribute to a safer and more comfortable treatment experience, ultimately enhancing the quality of life of patients undergoing long-term chemotherapy.
 
-### Types of vascular access
+### Types of Vascular Access
 There are three main types of vascular access devices commonly used for chemotherapy administration: peripheral intravenous catheters (PIVCs), peripherally inserted central catheters (PICCs), and totally implantable venous access ports (Port-a-Caths). Each method offers distinct advantages and limitations in terms of ease of insertion, infection risk, patient comfort, and suitability for long-term chemotherapy administration.
 
-#### Peripheral intravenous catheter
+#### Peripheral Intravenous Catheter
 A PIVC is a short, flexible cannula inserted into a peripheral vein, typically in the hand or forearm, to provide temporary vascular access for the administration of medications and fluids. One of its main advantages is that it can be placed by a trained healthcare professional without requiring a surgical procedure. They also generally carry a lower risk of infection. 
 
 However, PIVC insertion can be challenging in patients with difficult-to-access veins, sometimes requiring multiple attempts to locate and cannulate a suitable vein. Repeated needle punctures can cause pain and discomfort, while frequent cannulation and exposure to certain chemotherapy drugs may lead to phlebitis (inflammation of the vein) and potential venous damage. Over time, repeated vascular injury may compromise vein integrity, making subsequent venous access increasingly difficult.
 
-#### Peripherally inserted central catheter
+#### Peripherally Inserted Central Catheter
 A PICC is a long, flexible catheter inserted through a peripheral vein, typically in the upper arm, and advanced until its tip reaches a central vein near the junction of the superior vena cava and right atrium. PICC insertion requires a specialised procedure, typically performed under ultrasound guidance and X-ray verification by an interventional radiologist. One of the main advantages of a PICC is its versatility, as it can be used to administer various medications, including chemotherapy, antibiotics, and intravenous nutrition. Some PICCs also contain multiple lumens, allowing different compatible treatments to be administered through separate channels. Furthermore, the external catheter is equipped with a standard Luer-lock connection, enabling trained nursing staff to connect compatible infusion equipment directly without repeated needle punctures.
 
 However, as a PICC has an external segment that protrudes from the skin, this creates a potential route for microorganisms to enter, increasing the risk of catheter-related infections. Another potential complication is catheter occlusion caused by fibrin sheath formation. A fibrin sheath is a thin layer of protein-rich material that develops around the catheter following its insertion into the bloodstream. In some cases, this sheath may extend over the catheter tip and act as a one-way valve, allowing fluid to be infused into the bloodstream while preventing blood from being aspirated back through the catheter. This can interfere with catheter functionality and may require additional intervention to restore normal operation.
 
-#### Totally implantable venous access ports
+#### Totally Implantable Venous Access Ports
 A Port-a-Cath is a small, fully implanted device that provides long-term central venous access for the administration of chemotherapy and other medications. The device consists of a subcutaneous reservoir connected to a catheter, with its tip positioned in a central vein. To administer medication, a trained healthcare professional uses a specialised Huber needle to puncture the skin and access the port reservoir. The medication then flows through the connected catheter and is delivered directly into the central circulation. One of the main advantages of a Port-a-Cath is its lower risk of catheter-related infection compared to a PICC, as the device is fully implanted beneath the skin without an external catheter segment. Furthermore, once the port is implanted, patients generally experience less discomfort during repeated access compared to PIVC, making it particularly suitable for long-term chemotherapy administration.
 
 However, Port-a-Cath placement requires a more invasive insertion procedure, involving the creation of a subcutaneous pocket to accommodate the port reservoir and the placement of a catheter into the central venous system. Additionally, unlike a PICC, which can be accessed through a standard Luer-lock connection, a Port-a-Cath requires specially trained healthcare professionals to access the implanted reservoir using a Huber needle for chemotherapy administration.
@@ -89,7 +89,7 @@ Guided by these design criteria, our team explored a range of potential solution
 
 Physical protection concepts focused on modifying catheter designs or fluid flow patterns to minimise direct contact between chemotherapy drugs and the venous wall, while chemical protection concepts explored the use of protective fluids or agents to reduce venous irritation and inflammation. Alternative vascular access designs were also considered to address limitations associated with existing devices. Following preliminary discussions and evaluation, five concepts were shortlisted for further assessment: telescoping catheter, wearable flat port, off-axis catheter tip, coaxial liquid flow, and chemical vein protection
 
-### Concept Evaluation and selection
+### Concept Evaluation and Selection
 The five shortlisted concepts were evaluated against the established must-have and good-to-have criteria using a scoring matrix, with each criterion rated on a scale of 1 to 5, where 5 represented the highest level of suitability, as illustrated below.
 
 <img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (2)" src="https://github.com/user-attachments/assets/91e350c7-d4a7-4652-9c2f-ed0e24e344e8" />
@@ -106,9 +106,16 @@ Similarly, another study demonstrated the application of core-annular flow to im
 
 These findings provided preliminary technical support for both concepts, demonstrating how modifications to catheter geometry and fluid flow arrangements could potentially influence drug delivery patterns. Although both concepts performed equally well in the initial evaluation, our team ultimately selected coaxial liquid flow for the prototyping phase. This approach offers the potential to establish a surrounding fluid layer that minimises direct contact between chemotherapy drugs and the venous wall. The subsequent prototyping phase will therefore focus on investigating the feasibility of generating and maintaining a stable coaxial flow configuration under conditions relevant to peripheral intravenous infusion.
 
-## Prototyping phase
-### CAD design
-### CFD findings
+## Prototyping Phase
+### Concept design: Coaxial Flow Catheter
+Following the concept evaluation, our team developed a preliminary coaxial flow catheter design aimed at minimising direct contact between chemotherapy drugs and the peripheral venous wall. As illustrated below, the proposed catheter incorporates a dual-flow arrangement, consisting of a central channel for chemotherapy delivery and a surrounding channel for saline or other potentially suitable secondary fluids.
+
+<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (3)" src="https://github.com/user-attachments/assets/1ca00770-5a93-45d0-ac2d-31845204bc2a" />
+
+The design aims to establish a core-annular flow configuration, where chemotherapy is delivered through the central channel while a secondary fluid flows through the surrounding channel, forming a protective fluid layer between the chemotherapy stream and the venous wall. By maintaining the chemotherapy stream near the centre of the vessel, the surrounding fluid could potentially reduce direct exposure of the venous endothelium to chemotherapy drugs, thereby minimising irritation and inflammation. For the initial design, saline was selected as the secondary fluid. However, alternative fluids may also be explored, subject to further testing and optimisation to evaluate their suitability, chemical compatibility with chemotherapy drugs, and potential effects on drug stability, therapeutic efficacy, and patient safety. 
+
+The effectiveness of this approach would depend on several factors, including the relative flow rates of chemotherapy and the secondary fluid, catheter geometry, fluid properties, and interactions with the surrounding blood flow. These parameters will be investigated during the prototyping phase to determine whether a stable coaxial flow arrangement can be established and maintained under conditions representative of peripheral intravenous infusion.
+### CFD Findings
 
 ## Conclusion
 Through clinical observations, stakeholder interviews, and market analysis, our team identified an unmet need among cancer patients who decline Port-a-Cath implantation despite requiring repeated chemotherapy administration. This led us to shift our focus towards developing a minimally invasive solution that protects peripheral veins from chemotherapy-induced damage while preserving reliable venous access throughout treatment. Following concept generation, evaluation, and preliminary literature research, coaxial liquid flow was selected as the most promising concept for further development. By exploring the use of a protective fluid layer between chemotherapy drugs and the venous wall, our team aims to reduce the incidence of chemotherapy-related phlebitis and improve the overall treatment experience for patients.
