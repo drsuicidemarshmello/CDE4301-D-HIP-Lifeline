@@ -139,7 +139,7 @@ The effectiveness of this approach would depend on several factors, including th
 #### CFD Methodology and Evaluation Criteria
 To evaluate the technical feasibility of the proposed catheter design, our team developed three-dimensional computer-aided design (CAD) models and conducted computational fluid dynamics (CFD) simulations using ANSYS Fluent. The simulations investigated whether modifications to catheter outlet geometry and infusion flow patterns could reduce chemotherapy exposure and mechanical stress at the peripheral venous wall.
 
-Three catheter configurations were evaluated: a conventional peripheral intravenous catheter (PIVC) serving as the baseline, a six-hole catheter incorporating three pairs of side openings, and a dual-lumen catheter delivering chemotherapy through a central lumen surrounded by an annular saline flow.
+Three catheter configurations were evaluated: a conventional PIVC serving as the baseline, a six-hole catheter incorporating three pairs of side openings, and a dual-lumen catheter delivering chemotherapy through a central lumen surrounded by an annular saline flow.
 
 To facilitate comparison, all three models used a 4 mm diameter, 100 mm long vein, with a centrally positioned catheter extending 30 mm into the vessel. The revised catheter models had an outer diameter of 1.4 mm. The conventional and six-hole catheters delivered a premixed chemotherapy–saline solution, whereas the dual-lumen catheter delivered the two fluids through separate concentric passages.
 
