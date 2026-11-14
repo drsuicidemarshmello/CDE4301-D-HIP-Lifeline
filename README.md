@@ -70,7 +70,9 @@ Importantly, the recurring nature of chemotherapy further amplifies this unmet c
 ### Market Gap Analysis
 To further evaluate the commercial opportunity, our team compared existing vascular access methods against key patient and clinical needs identified through stakeholder interviews. As illustrated in Figure 2, each method presents trade-offs between procedural invasiveness, long-term reliability, and patient comfort.
 
-<img width="1920" height="1080" alt="D-HIP Midpoint Presentation" src="https://github.com/user-attachments/assets/aa0dbc4e-9443-4d60-9671-ef4c6c509212" />
+<p align="center">
+  <img width="800" alt="D-HIP Midpoint Presentation" src="https://github.com/user-attachments/assets/aa0dbc4e-9443-4d60-9671-ef4c6c509212" />
+</p>
 <p align="center">
   <strong>Figure 2:</strong> <em>Market Gap Analysis</em>
 </p>
