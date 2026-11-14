@@ -169,7 +169,7 @@ Performance was evaluated using three categories of metrics:
 The initial simulations compared the conventional PIVC, six-hole PIVC and dual-lumen catheter at a 1:1 chemotherapy-to-saline flow-rate ratio.
 
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/087c3518-8601-446e-bfbb-2d43cf31837c" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/087c3518-8601-446e-bfbb-2d43cf31837c" />
 </p>
 <p align="center">
   <strong>Table 1:</strong> <em>Percentage Change in CFD Metrics Relative to Conventional PIVC (%)</em>
@@ -201,7 +201,7 @@ Following the initial design comparison, a parametric CFD study was conducted to
 The chemotherapy flow rate was maintained at 1 mL/min, while the saline flow rate was varied between 0.5, 1 and 2 mL/min, corresponding to chemotherapy-to-saline flow-rate ratios of 1:0.5, 1:1 and 1:2.
 
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/4beb7c55-8d56-4b25-aa0f-53c966024277" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/4beb7c55-8d56-4b25-aa0f-53c966024277" />
 </p>
 <p align="center">
   <strong>Table 2:</strong> <em>Percentage change in Dual-Lumen CFD metrics relative to Conventional PIVC, across different chemotherapy-to-saline flow-rate ratios (%)</em>
@@ -216,10 +216,10 @@ However, mean WSS increased slightly from 0.4768 Pa to 0.4858 Pa, representing a
 Among the three conditions tested, the 1:2 chemotherapy-to-saline ratio produced the lowest predicted vein-wall chemotherapy exposure. Nevertheless, this condition also required the greatest saline volume, and its suitability must be evaluated against fluid administration requirements and potential clinical constraints.
 
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/5b6c4aa2-79be-4428-9ab4-aed5a023f6dd" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/5b6c4aa2-79be-4428-9ab4-aed5a023f6dd" />
 </p>
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/030959ab-3096-4236-9bc0-b1af5a1dbffc" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/030959ab-3096-4236-9bc0-b1af5a1dbffc" />
 </p>
 <p align="center">
   <strong>Figure 8:</strong> <em>Effect of saline flow rate on (a) mean vein-wall chemotherapy tracer mass fraction and (b) mean wall shear stress (WSS)</em>
