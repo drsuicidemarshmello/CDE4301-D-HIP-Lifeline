@@ -154,7 +154,9 @@ Performance was evaluated using three categories of metrics:
 
 The initial simulations compared the conventional PIVC, six-hole PIVC and dual-lumen catheter at a 1:1 chemotherapy-to-saline flow-rate ratio.
 
-[Insert Table 1: Comparison of CFD metrics across the three catheter configurations]
+<p align="center">
+  <strong>Table 1:</strong> <em>Comparison of CFD metrics across the three catheter configurations</em>
+</p>
 
 The six-hole catheter demonstrated limited improvement over the conventional baseline. Although the additional openings were intended to redistribute the infused solution and reduce localized mechanical stress, the resulting mean WSS remained nearly unchanged, decreasing by only 0.07%. Meanwhile, peak and mean vein-wall chemotherapy mass fractions increased by approximately 5.2% and 0.7%, respectively.
 
@@ -166,7 +168,9 @@ This finding supports the proposed mechanism of using an annular saline stream t
 
 However, this improvement was accompanied by increased mechanical stress. Peak WSS increased by approximately 18.5%, while mean WSS increased by approximately 16.4% compared with the baseline. This indicates a potential trade-off between reducing chemical exposure and increasing mechanical loading on the venous wall.
 
-[Insert Figure 7: Longitudinal velocity and chemotherapy mass-fraction contours for the three catheter designs]
+<p align="center">
+  <strong>Figure 7:</strong> <em>Longitudinal velocity and chemotherapy mass-fraction contours for the three catheter designs</em>
+</p>
 
 Overall, the initial comparison identified the dual-lumen configuration as the more promising design for reducing predicted chemotherapy exposure, although further optimization is required to address the associated increase in WSS.
 
@@ -176,7 +180,9 @@ Following the initial design comparison, a parametric CFD study was conducted to
 
 The chemotherapy flow rate was maintained at 1 mL/min, while the saline flow rate was varied between 0.5, 1 and 2 mL/min, corresponding to chemotherapy-to-saline flow-rate ratios of 1:0.5, 1:1 and 1:2.
 
-[Insert Table 2: Dual-lumen CFD results across different chemotherapy-to-saline flow-rate ratios]
+<p align="center">
+  <strong>Table 2:</strong> <em>Dual-lumen CFD results across different chemotherapy-to-saline flow-rate ratios</em>
+</p>
 
 Increasing the saline flow rate produced a consistent reduction in chemotherapy tracer exposure at the vein wall. As the saline flow increased from 0.5 to 2 mL/min, peak wall tracer mass fraction decreased from 0.002034 to 0.001908, representing a reduction of approximately 6.2%. Similarly, mean wall tracer mass fraction decreased from 0.0003253 to 0.0002975, corresponding to an 8.5% reduction.
 
@@ -186,7 +192,9 @@ However, mean WSS increased slightly from 0.4768 Pa to 0.4858 Pa, representing a
 
 Among the three conditions tested, the 1:2 chemotherapy-to-saline ratio produced the lowest predicted vein-wall chemotherapy exposure. Nevertheless, this condition also required the greatest saline volume, and its suitability must be evaluated against fluid administration requirements and potential clinical constraints.
 
-[Insert Figure 8: Variation in mean wall tracer mass fraction and mean WSS with saline flow rate]
+<p align="center">
+  <strong>Figure 8:</strong> <em>Variation in mean wall tracer mass fraction and mean WSS with saline flow rate</em>
+</p>
 
 These results demonstrate that the protective performance of the dual-lumen design is sensitive to the saline flow rate, providing an opportunity for further optimization of the balance between chemical exposure, mechanical stress and fluid delivery.
 
