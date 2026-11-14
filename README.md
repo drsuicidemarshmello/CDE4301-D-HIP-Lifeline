@@ -237,7 +237,7 @@ Moving forward, our team will continue refining and testing the proposed design,
 ## References
 National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual Report 2023. Health Promotion Board. https://www.nrdo.gov.sg/publications/singapore-cancer-registry-annual-report-2023/
 
-Sudhakar et al. (2023). J Oncol Pharm Pract. doi.org/10.1177/10781552231161517
+Sudhakar et al. (2023). J Oncol Pharm Pract. https://doi.org/10.1177/10781552231161517
 
 Weber, P. W., Coursey, C. A., Howle, L. E., Nelson, R. C., Nichols, E. B., & Schindera, S. T. (2009). Modifying peripheral IV catheters with side holes and side slits results in favorable changes in fluid dynamic properties during the injection of iodinated contrast material. American Journal of Roentgenology, 193(4), 970–977. https://doi.org/10.2214/ajr.09.2521
 
