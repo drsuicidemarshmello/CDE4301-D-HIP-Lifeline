@@ -141,21 +141,22 @@ To evaluate the technical feasibility of the proposed catheter design, our team 
 
 Three catheter configurations were evaluated: a conventional PIVC serving as the baseline, a six-hole catheter incorporating three pairs of side openings, and a dual-lumen catheter delivering chemotherapy through a central lumen surrounded by an annular saline flow.
 
-To facilitate comparison, all three models used a 4 mm diameter, 100 mm long vein, with a centrally positioned catheter extending 30 mm into the vessel. The revised catheter models had an outer diameter of 1.4 mm. The conventional and six-hole catheters delivered a premixed chemotherapy–saline solution, whereas the dual-lumen catheter delivered the two fluids through separate concentric passages.
+To facilitate comparison, all three models used a 4 mm diameter, 100 mm long vein, with a centrally positioned catheter with an outer diameter of 1.4 mm, extending 30 mm into the vessel. The conventional and six-hole catheters delivered a premixed chemotherapy–saline solution, whereas the dual-lumen catheter delivered the two fluids through separate concentric passages. This approach ensured that all three models received the same total infusion flow rate, allowing for a more controlled comparison of how catheter design and fluid delivery configuration influence flow behaviour and vein-wall exposure.
 
-Chemotherapy and saline flow rates were initially fixed at 1 mL/min each, while the blood inlet velocity was maintained at 0.05 m/s. A simplified three-species transport model was implemented to represent blood, saline and chemotherapy solution, with chemotherapy mass fraction serving as a proxy for chemical exposure.
+Chemotherapy and saline flow rates were fixed at 1 mL/min each, while the blood inlet velocity was maintained at 0.05 m/s. A simplified three-species transport model was implemented to represent blood, saline and chemotherapy solution, with chemotherapy mass fraction serving as a proxy for chemical exposure.
 
 Performance was evaluated using three categories of metrics:
 1. Chemical exposure: Peak and area-weighted mean chemotherapy mass fraction at the vein wall.
 2. Mechanical stress: Peak and area-weighted mean wall shear stress (WSS).
-3. Flow characteristics: Distal tip velocity, velocity contours, flow pathlines and downstream tracer distribution.
+3. Flow characteristics: Distal tip exit velocity, velocity contours, tracer contours, and flow pathlines.
 
 #### Initial Design Comparison
 
 The initial simulations compared the conventional PIVC, six-hole PIVC and dual-lumen catheter at a 1:1 chemotherapy-to-saline flow-rate ratio.
 
+<img width="796" height="657" alt="image" src="https://github.com/user-attachments/assets/e21f521b-baad-4a99-b86c-c173f3108eb3" />
 <p align="center">
-  <strong>Table 1:</strong> <em>Comparison of CFD metrics across the three catheter configurations</em>
+  <strong>Table 1:</strong> <em>Percentage Change of CFD metrics using the conventional PIVC as the baseline</em>
 </p>
 
 The six-hole catheter demonstrated limited improvement over the conventional baseline. Although the additional openings were intended to redistribute the infused solution and reduce localized mechanical stress, the resulting mean WSS remained nearly unchanged, decreasing by only 0.07%. Meanwhile, peak and mean vein-wall chemotherapy mass fractions increased by approximately 5.2% and 0.7%, respectively.
@@ -168,11 +169,12 @@ This finding supports the proposed mechanism of using an annular saline stream t
 
 However, this improvement was accompanied by increased mechanical stress. Peak WSS increased by approximately 18.5%, while mean WSS increased by approximately 16.4% compared with the baseline. This indicates a potential trade-off between reducing chemical exposure and increasing mechanical loading on the venous wall.
 
+<img width="1590" height="712" alt="image" src="https://github.com/user-attachments/assets/8268e0eb-99dd-433b-8210-163006e20ea6" />
 <p align="center">
   <strong>Figure 7:</strong> <em>Longitudinal velocity and chemotherapy mass-fraction contours for the three catheter designs</em>
 </p>
 
-Overall, the initial comparison identified the dual-lumen configuration as the more promising design for reducing predicted chemotherapy exposure, although further optimization is required to address the associated increase in WSS.
+Overall, the initial comparison identified the dual-lumen configuration as the more promising design for reducing predicted chemotherapy exposure, although further optimisation is required to address the associated increase in WSS.
 
 #### Flow-Ratio Sensitivity Study
 
@@ -180,8 +182,9 @@ Following the initial design comparison, a parametric CFD study was conducted to
 
 The chemotherapy flow rate was maintained at 1 mL/min, while the saline flow rate was varied between 0.5, 1 and 2 mL/min, corresponding to chemotherapy-to-saline flow-rate ratios of 1:0.5, 1:1 and 1:2.
 
+<img width="886" height="806" alt="image" src="https://github.com/user-attachments/assets/e9f0e9b0-300e-43c2-b106-a493b315d377" />
 <p align="center">
-  <strong>Table 2:</strong> <em>Dual-lumen CFD results across different chemotherapy-to-saline flow-rate ratios</em>
+  <strong>Table 2:</strong> <em>Dual-lumen CFD results (in percentage change, using conventional PIVC as the baseline) across different chemotherapy-to-saline flow-rate ratios</em>
 </p>
 
 Increasing the saline flow rate produced a consistent reduction in chemotherapy tracer exposure at the vein wall. As the saline flow increased from 0.5 to 2 mL/min, peak wall tracer mass fraction decreased from 0.002034 to 0.001908, representing a reduction of approximately 6.2%. Similarly, mean wall tracer mass fraction decreased from 0.0003253 to 0.0002975, corresponding to an 8.5% reduction.
@@ -192,11 +195,13 @@ However, mean WSS increased slightly from 0.4768 Pa to 0.4858 Pa, representing a
 
 Among the three conditions tested, the 1:2 chemotherapy-to-saline ratio produced the lowest predicted vein-wall chemotherapy exposure. Nevertheless, this condition also required the greatest saline volume, and its suitability must be evaluated against fluid administration requirements and potential clinical constraints.
 
+<img width="847" height="501" alt="image" src="https://github.com/user-attachments/assets/5b6c4aa2-79be-4428-9ab4-aed5a023f6dd" />
+<img width="848" height="500" alt="image" src="https://github.com/user-attachments/assets/030959ab-3096-4236-9bc0-b1af5a1dbffc" />
 <p align="center">
-  <strong>Figure 8:</strong> <em>Variation in mean wall tracer mass fraction and mean WSS with saline flow rate</em>
+  <strong>Figure 8:</strong> <em>Effect of saline flow rate on (a) mean vein-wall chemotherapy tracer mass fraction and (b) mean wall shear stress (WSS)</em>
 </p>
 
-These results demonstrate that the protective performance of the dual-lumen design is sensitive to the saline flow rate, providing an opportunity for further optimization of the balance between chemical exposure, mechanical stress and fluid delivery.
+As illustrated in Figure 8, increasing saline flow from 0.5 to 2 mL/min reduced mean wall tracer mass fraction by approximately 8.5%, while mean WSS increased by approximately 1.9%. These opposing trends highlight a potential trade-off between chemical protection and mechanical stress. The results also show that the performance of the dual-lumen design is sensitive to saline flow rate, providing room for further optimisation to balance vein-wall exposure, mechanical loading and fluid administration requirements.
 
 #### Initial Outcomes and Technical Feasibility
 
@@ -204,9 +209,7 @@ The preliminary CFD results provide encouraging evidence of the technical potent
 
 Most significantly, the dual-lumen configuration achieved an approximately 90% reduction in mean vein-wall chemotherapy tracer mass fraction relative to the conventional premixed-infusion baseline under matched total infusion conditions. This demonstrates that modifying the spatial arrangement of chemotherapy and saline delivery can substantially influence predicted chemical exposure at the venous wall.
 
-Furthermore, the flow-ratio sensitivity study demonstrated a consistent reduction in wall tracer exposure with increasing saline flow, indicating that the performance of the proposed design can be influenced through adjustable operating parameters.
-
-Beyond the numerical findings, the successful development of the CAD models, generation of computational meshes, implementation of multi-species fluid transport and extraction of quantitative performance metrics establishes a functional computational prototyping framework. This framework enables systematic evaluation and refinement of catheter geometry and infusion conditions before physical fabrication.
+Additionally, the flow-ratio sensitivity study demonstrated a consistent reduction in wall tracer exposure with increasing saline flow, indicating that the performance of the proposed design can be influenced through adjustable operating parameters.
 
 Collectively, these outcomes demonstrate promising progress towards the project's intended deliverables, particularly the development of a minimally invasive catheter concept capable of reducing predicted chemotherapy exposure at the peripheral vein wall.
 
@@ -214,15 +217,15 @@ However, these results establish preliminary computational feasibility rather th
 
 #### Limitations and Future Development
 
-Several limitations must be addressed in subsequent development stages.
+Several limitations should be addressed in the next development stages.
 
 First, the simulations assumed a straight, rigid vein with a centrally positioned catheter and steady, laminar flow. Actual peripheral veins exhibit anatomical variability, vessel compliance and differences in catheter positioning, which may affect the resulting flow patterns.
 
-Second, chemotherapy was represented using a simplified species transport model rather than a specific drug formulation. Consequently, the predicted tracer distribution does not directly quantify endothelial toxicity, phlebitis risk or long-term vascular damage.
+Second, chemotherapy was represented using a simplified species transport model rather than a specific drug formulation. As a result, the predicted tracer distribution does not directly quantify endothelial toxicity, phlebitis risk or long-term vascular damage.
 
 Third, the flow-ratio study varied the total saline infusion volume. Therefore, the observed improvements may reflect a combination of hydrodynamic shielding, additional dilution and changes in the local flow field.
 
-Future work will focus on refining the dual-lumen geometry and saline flow conditions, conducting mesh-independence and model-validation studies, and developing physical flow models to experimentally investigate the predicted tracer distribution. Subsequent biological testing would be required to determine whether reduced chemotherapy exposure translates into reduced endothelial injury.
+Future work will focus on refining the dual-lumen geometry and saline flow conditions, and developing physical flow models to experimentally investigate the predicted tracer distribution. Subsequent biological testing would be required to determine whether reduced chemotherapy exposure translates into reduced endothelial injury.
 
 These investigations will guide the development of a clinically feasible solution that balances chemical protection, mechanical safety and practical compatibility with chemotherapy administration.
 
