@@ -154,9 +154,9 @@ Performance was evaluated using three categories of metrics:
 
 The initial simulations compared the conventional PIVC, six-hole PIVC and dual-lumen catheter at a 1:1 chemotherapy-to-saline flow-rate ratio.
 
-<img width="796" height="657" alt="image" src="https://github.com/user-attachments/assets/e21f521b-baad-4a99-b86c-c173f3108eb3" />
+<img width="962" height="797" alt="image" src="https://github.com/user-attachments/assets/087c3518-8601-446e-bfbb-2d43cf31837c" />
 <p align="center">
-  <strong>Table 1:</strong> <em>Percentage Change of CFD metrics using the conventional PIVC as the baseline</em>
+  <strong>Table 1:</strong> <em>Percentage Change in CFD Metrics Relative to Conventional PIVC (%)</em>
 </p>
 
 The six-hole catheter demonstrated limited improvement over the conventional baseline. Although the additional openings were intended to redistribute the infused solution and reduce localized mechanical stress, the resulting mean WSS remained nearly unchanged, decreasing by only 0.07%. Meanwhile, peak and mean vein-wall chemotherapy mass fractions increased by approximately 5.2% and 0.7%, respectively.
@@ -182,9 +182,9 @@ Following the initial design comparison, a parametric CFD study was conducted to
 
 The chemotherapy flow rate was maintained at 1 mL/min, while the saline flow rate was varied between 0.5, 1 and 2 mL/min, corresponding to chemotherapy-to-saline flow-rate ratios of 1:0.5, 1:1 and 1:2.
 
-<img width="886" height="806" alt="image" src="https://github.com/user-attachments/assets/e9f0e9b0-300e-43c2-b106-a493b315d377" />
+<img width="730" height="663" alt="image" src="https://github.com/user-attachments/assets/4beb7c55-8d56-4b25-aa0f-53c966024277" />
 <p align="center">
-  <strong>Table 2:</strong> <em>Dual-lumen CFD results (in percentage change, using conventional PIVC as the baseline) across different chemotherapy-to-saline flow-rate ratios</em>
+  <strong>Table 2:</strong> <em>Percentage change in Dual-Lumen CFD metrics relative to Conventional PIVC, across different chemotherapy-to-saline flow-rate ratios (%)</em>
 </p>
 
 Increasing the saline flow rate produced a consistent reduction in chemotherapy tracer exposure at the vein wall. As the saline flow increased from 0.5 to 2 mL/min, peak wall tracer mass fraction decreased from 0.002034 to 0.001908, representing a reduction of approximately 6.2%. Similarly, mean wall tracer mass fraction decreased from 0.0003253 to 0.0002975, corresponding to an 8.5% reduction.
@@ -237,7 +237,7 @@ Moving forward, our team will continue refining and testing the proposed design,
 ## References
 National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual Report 2023. Health Promotion Board. https://www.nrdo.gov.sg/publications/singapore-cancer-registry-annual-report-2023/
 
-Sudhakar et al. (2023). J Oncol Pharm Pract. https://doi.org/10.1177/10781552231161517
+Sudhakar et al. (2023). J Oncol Pharm Pract. doi.org/10.1177/10781552231161517
 
 Weber, P. W., Coursey, C. A., Howle, L. E., Nelson, R. C., Nichols, E. B., & Schindera, S. T. (2009). Modifying peripheral IV catheters with side holes and side slits results in favorable changes in fluid dynamic properties during the injection of iodinated contrast material. American Journal of Roentgenology, 193(4), 970–977. https://doi.org/10.2214/ajr.09.2521
 
