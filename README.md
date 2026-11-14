@@ -1,6 +1,6 @@
 # CDE4301 EIM-434 Team Lifeline: Interventional Oncology
 <p align="center">
-  <img width="900" alt="Screenshot 2026-11-02 175753" src="https://github.com/user-attachments/assets/f95f16c7-4b78-421e-bbd2-6001944e751c" />
+  <img width="800" alt="Screenshot 2026-11-02 175753" src="https://github.com/user-attachments/assets/f95f16c7-4b78-421e-bbd2-6001944e751c" />
 </p>
 
 ## Introduction
