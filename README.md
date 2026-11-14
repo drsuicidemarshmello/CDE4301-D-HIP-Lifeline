@@ -38,7 +38,7 @@ As the device is fully implanted without an external catheter segment, it genera
 However, implantation requires a more invasive procedure, involving the creation of a subcutaneous pocket and placement of a central venous catheter. Unlike a PICC with a standard Luer-lock connection, accessing a Port-a-Cath also requires specially trained healthcare professionals and a Huber needle for chemotherapy administration.
 
 ### Clinical Findings
-Through clinical observations and stakeholder interviews, our team sought to better understand the challenges associated with existing vascular access methods for chemotherapy administration. A total of 31 stakeholder interviews were conducted, comprising 8 interventional radiology (IR) clinicians and staff, 4 medical oncology clinicians and staff, 3 BD industry personnel, and 16 patients.
+Through clinical observations and stakeholder interviews, our team sought to better understand the challenges associated with existing vascular access methods for chemotherapy administration. A total of 31 stakeholder interviews were conducted, comprising 8 interventional radiology (IR) clinicians and nurses, 4 medical oncology clinicians and nurses, 3 BD industry personnel, and 16 patients.
 
 Overall, the findings indicated that the Port-a-Cath, the current gold standard, remains a well-established and effective solution for long-term chemotherapy administration, with generally positive feedback from both healthcare professionals and patients. Most stakeholders expressed satisfaction with its reliability, functionality, and suitability for repeated chemotherapy administration.
 
