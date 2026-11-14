@@ -88,7 +88,9 @@ Ultimately, Lifeline seeks to bridge the gap between peripheral and central veno
 ### Design Criteria
 Before developing potential solutions, our team established a set of must-have and good-to-have design criteria based on the clinical needs and stakeholder insights identified during the discovery phase. These criteria served as a framework for evaluating potential concepts, ensuring that the proposed solutions would address key clinical challenges while remaining practical for implementation.
 
-<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (4)" src="https://github.com/user-attachments/assets/8c6098bb-6f1f-4df4-9de8-03df01f9d1b6" />
+<p align="center">
+  <img width="800" alt="Run 5 - DHIP Concept Presentation Template pptx (4)" src="https://github.com/user-attachments/assets/8c6098bb-6f1f-4df4-9de8-03df01f9d1b6" />
+</p>
 <p align="center">
   <strong>Figure 3:</strong> <em>Breakdown of Design Criteria</em>
 </p>
