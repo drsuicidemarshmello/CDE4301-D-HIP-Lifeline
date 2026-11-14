@@ -100,7 +100,9 @@ As illustrated in Figure 3, the must-have criteria represent the essential requi
 ### Concept Generation
 Guided by these design criteria, our team explored a range of potential solutions aimed at reducing chemotherapy-induced peripheral venous damage. As shown in Figure 4, we broadly categorised the concepts into physical protection, chemical protection, and alternative vascular access designs.
 
-<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (5)" src="https://github.com/user-attachments/assets/a2202f51-bf57-4ce6-8267-09fcf041cdda" />
+<p align="center">
+  <img width="800" alt="Run 5 - DHIP Concept Presentation Template pptx (5)" src="https://github.com/user-attachments/assets/a2202f51-bf57-4ce6-8267-09fcf041cdda" />
+</p>
 <p align="center">
   <strong>Figure 4:</strong> <em>Breakdown of Concepts Generated</em>
 </p>
@@ -110,7 +112,9 @@ Physical protection concepts focused on modifying catheter designs or fluid flow
 ### Concept Evaluation and Selection
 The five shortlisted concepts were evaluated against the established must-have and good-to-have criteria using a scoring matrix, with each criterion rated on a scale of 1 to 5, where 5 represented the highest level of suitability, as illustrated in Figure 5.
 
-<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (6)" src="https://github.com/user-attachments/assets/0be73177-3cb1-4c26-8286-ee22fdc356ca" />
+<p align="center">
+  <img width="800" alt="Run 5 - DHIP Concept Presentation Template pptx (6)" src="https://github.com/user-attachments/assets/0be73177-3cb1-4c26-8286-ee22fdc356ca" />
+</p>
 <p align="center">
   <strong>Figure 5:</strong> <em>Evaluation of shortlisted concepts</em>
 </p>
@@ -131,7 +135,9 @@ These findings provided preliminary technical support for both concepts, demonst
 ### Concept design: Coaxial Flow Catheter
 Following the concept evaluation, our team developed a preliminary coaxial flow catheter design aimed at minimising direct contact between chemotherapy drugs and the peripheral venous wall. As illustrated in Figure 6, the proposed catheter incorporates a dual-flow arrangement, consisting of a central channel for chemotherapy delivery and a surrounding channel for saline or other potentially suitable secondary fluids.
 
-<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (3)" src="https://github.com/user-attachments/assets/1ca00770-5a93-45d0-ac2d-31845204bc2a" />
+<p align="center">
+  <img width="800" alt="Run 5 - DHIP Concept Presentation Template pptx (3)" src="https://github.com/user-attachments/assets/1ca00770-5a93-45d0-ac2d-31845204bc2a" />
+</p>
 <p align="center">
   <strong>Figure 6:</strong> <em>Coaxial Flow Catheter Design</em>
 </p>
@@ -160,7 +166,9 @@ Performance was evaluated using three categories of metrics:
 
 The initial simulations compared the conventional PIVC, six-hole PIVC and dual-lumen catheter at a 1:1 chemotherapy-to-saline flow-rate ratio.
 
-<img width="962" height="797" alt="image" src="https://github.com/user-attachments/assets/087c3518-8601-446e-bfbb-2d43cf31837c" />
+<p align="center">
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/087c3518-8601-446e-bfbb-2d43cf31837c" />
+</p>
 <p align="center">
   <strong>Table 1:</strong> <em>Percentage Change in CFD Metrics Relative to Conventional PIVC (%)</em>
 </p>
@@ -175,7 +183,9 @@ This finding supports the proposed mechanism of using an annular saline stream t
 
 However, this improvement was accompanied by increased mechanical stress. Peak WSS increased by approximately 18.5%, while mean WSS increased by approximately 16.4% compared with the baseline. This indicates a potential trade-off between reducing chemical exposure and increasing mechanical loading on the venous wall.
 
-<img width="1590" height="712" alt="image" src="https://github.com/user-attachments/assets/8268e0eb-99dd-433b-8210-163006e20ea6" />
+<p align="center">
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/8268e0eb-99dd-433b-8210-163006e20ea6" />
+</p>
 <p align="center">
   <strong>Figure 7:</strong> <em>Longitudinal velocity and chemotherapy mass-fraction contours for the three catheter designs</em>
 </p>
@@ -188,7 +198,9 @@ Following the initial design comparison, a parametric CFD study was conducted to
 
 The chemotherapy flow rate was maintained at 1 mL/min, while the saline flow rate was varied between 0.5, 1 and 2 mL/min, corresponding to chemotherapy-to-saline flow-rate ratios of 1:0.5, 1:1 and 1:2.
 
-<img width="730" height="663" alt="image" src="https://github.com/user-attachments/assets/4beb7c55-8d56-4b25-aa0f-53c966024277" />
+<p align="center">
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/4beb7c55-8d56-4b25-aa0f-53c966024277" />
+</p>
 <p align="center">
   <strong>Table 2:</strong> <em>Percentage change in Dual-Lumen CFD metrics relative to Conventional PIVC, across different chemotherapy-to-saline flow-rate ratios (%)</em>
 </p>
@@ -201,8 +213,12 @@ However, mean WSS increased slightly from 0.4768 Pa to 0.4858 Pa, representing a
 
 Among the three conditions tested, the 1:2 chemotherapy-to-saline ratio produced the lowest predicted vein-wall chemotherapy exposure. Nevertheless, this condition also required the greatest saline volume, and its suitability must be evaluated against fluid administration requirements and potential clinical constraints.
 
-<img width="847" height="501" alt="image" src="https://github.com/user-attachments/assets/5b6c4aa2-79be-4428-9ab4-aed5a023f6dd" />
-<img width="848" height="500" alt="image" src="https://github.com/user-attachments/assets/030959ab-3096-4236-9bc0-b1af5a1dbffc" />
+<p align="center">
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/5b6c4aa2-79be-4428-9ab4-aed5a023f6dd" />
+</p>
+<p align="center">
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/030959ab-3096-4236-9bc0-b1af5a1dbffc" />
+</p>
 <p align="center">
   <strong>Figure 8:</strong> <em>Effect of saline flow rate on (a) mean vein-wall chemotherapy tracer mass fraction and (b) mean wall shear stress (WSS)</em>
 </p>
