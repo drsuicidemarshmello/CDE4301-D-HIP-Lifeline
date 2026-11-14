@@ -94,17 +94,17 @@ As illustrated in Figure 3, the must-have criteria represent the essential requi
 ### Concept Generation
 Guided by these design criteria, our team explored a range of potential solutions aimed at reducing chemotherapy-induced peripheral venous damage. As shown in Figure 4, we broadly categorised the concepts into physical protection, chemical protection, and alternative vascular access designs.
 
-<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (1)" src="https://github.com/user-attachments/assets/cf4512df-dcf0-4124-a1ce-6c323a603ff0" />
+<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (5)" src="https://github.com/user-attachments/assets/a2202f51-bf57-4ce6-8267-09fcf041cdda" />
 <p align="center">
   <strong>Figure 4:</strong> <em>Breakdown of Concepts Generated</em>
 </p>
 
-Physical protection concepts focused on modifying catheter designs or fluid flow patterns to minimise direct contact between chemotherapy drugs and the venous wall, while chemical protection concepts explored the use of protective fluids or agents to reduce venous irritation and inflammation. Alternative vascular access designs were also considered to address limitations associated with existing devices. Following preliminary discussions and evaluation, five concepts were shortlisted for further assessment: telescoping catheter, wearable flat port, off-axis catheter tip, coaxial liquid flow, and chemical vein protection
+Physical protection concepts focused on modifying catheter designs or fluid flow patterns to minimise direct contact between chemotherapy drugs and the venous wall, while chemical protection concepts explored the use of protective fluids or agents to reduce venous irritation and inflammation. Alternative vascular access designs were also considered to address limitations associated with existing devices. Following preliminary discussions and evaluation, five concepts were shortlisted for further assessment: telescoping catheter, wearable flat port, multi-outlet catheter, coaxial liquid flow, and chemical vein protection.
 
 ### Concept Evaluation and Selection
 The five shortlisted concepts were evaluated against the established must-have and good-to-have criteria using a scoring matrix, with each criterion rated on a scale of 1 to 5, where 5 represented the highest level of suitability, as illustrated in Figure 5.
 
-<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (2)" src="https://github.com/user-attachments/assets/91e350c7-d4a7-4652-9c2f-ed0e24e344e8" />
+<img width="1280" height="720" alt="Run 5 - DHIP Concept Presentation Template pptx (6)" src="https://github.com/user-attachments/assets/0be73177-3cb1-4c26-8286-ee22fdc356ca" />
 <p align="center">
   <strong>Figure 5:</strong> <em>Evaluation of shortlisted concepts</em>
 </p>
@@ -113,9 +113,9 @@ The telescoping catheter received a score of 30/45, primarily due to its procedu
 
 The chemical vein protection concept received a score of 31/45, with technical feasibility being its main limitation. Identifying a suitable protective agent would require careful consideration of its anti-inflammatory properties, chemical compatibility with chemotherapy drugs, and potential effects on drug stability, therapeutic efficacy, and patient safety.
 
-The off-axis catheter tip and coaxial liquid flow concepts achieved the highest overall scores of 40/45 each. Both concepts demonstrated potential for reducing direct chemotherapy exposure to the venous wall while maintaining a relatively minimally invasive approach. To further assess their technical feasibility, our team reviewed existing literature investigating catheter design modifications and controlled fluid flow patterns.
+The multi-outlet catheter and coaxial liquid flow concepts achieved the highest overall scores of 40/45 each. Both concepts demonstrated potential for reducing direct chemotherapy exposure to the venous wall while maintaining a relatively minimally invasive approach. To further assess their technical feasibility, our team reviewed existing literature investigating catheter design modifications and controlled fluid flow patterns.
 
-A study demonstrated that a modified catheter with an off-axis tip aperture produced a sharper infusate flow angle away from the vein wall compared to a conventional central-opening catheter. This redirection of fluid flow may potentially reduce direct impingement on the venous wall and associated vascular trauma (Bahl et al., 2024).
+A study demonstrated that modifying standard peripheral IV angiocatheters by adding side holes/slits resulted in a 9–30% reduction in the velocity of the exiting jet, making it less well-defined, qualitatively altering the overall flow field, and reducing wall shear stress (Weber et al., 2009).
 
 Similarly, another study demonstrated the application of core-annular flow to improve the injectability of highly concentrated drug formulations. This approach utilises a coaxial flow arrangement in which the drug formulation is concentrated within a central fluid core, surrounded by an outer lubricating fluid layer (Jayaprakash et al., 2020). Although the study focused on improving drug injectability rather than preventing chemotherapy-induced phlebitis, it provides a useful foundation for investigating whether a similar flow configuration could establish a protective fluid layer between chemotherapy drugs and the venous wall.
 
@@ -228,6 +228,6 @@ National Registry of Diseases Office. (2026). Singapore Cancer Registry Annual R
 
 Sudhakar et al. (2023). J Oncol Pharm Pract. doi.org/10.1177/10781552231161517
 
-Bahl, A., Gibson, S. M., & Walton, A. (2024). Optimizing infusate flow patterns for minimizing vein wall trauma: An exploratory study with a modified off-axis catheter tip opening. Therapeutics and Clinical Risk Management, Volume 20, 559–566. https://doi.org/10.2147/tcrm.s479846
+Weber, P. W., Coursey, C. A., Howle, L. E., Nelson, R. C., Nichols, E. B., & Schindera, S. T. (2009). Modifying peripheral IV catheters with side holes and side slits results in favorable changes in fluid dynamic properties during the injection of iodinated contrast material. American Journal of Roentgenology, 193(4), 970–977. https://doi.org/10.2214/ajr.09.2521
 
 Jayaprakash, V., Costalonga, M., Dhulipala, S., & Varanasi, K. K. (2020). Enhancing the Injectability of High Concentration Drug Formulations Using Core Annular Flows. Advanced healthcare materials, 9(18), e2001022. https://doi.org/10.1002/adhm.202001022
