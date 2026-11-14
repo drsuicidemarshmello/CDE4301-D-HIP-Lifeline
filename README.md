@@ -56,7 +56,9 @@ As such, our team revised the initial problem statement to address this unmet cl
 ### Market Sizing
 To evaluate the commercial potential of our proposed solution, our team conducted a preliminary market sizing analysis (Figure 1) to estimate the number of patients who could benefit from improved peripheral venous access during chemotherapy.
 
-<img width="1920" height="1080" alt="D-HIP Midpoint Presentation (1)" src="https://github.com/user-attachments/assets/e0378446-8171-4255-a9ac-9c37f8ec4ac6" />
+<p align="center">
+  <img width="1536" height="864" alt="D-HIP Midpoint Presentation (1)" src="https://github.com/user-attachments/assets/e0378446-8171-4255-a9ac-9c37f8ec4ac6" />
+</p>
 <p align="center">
   <strong>Figure 1:</strong> <em>Market Sizing Analysis</em>
 </p>
