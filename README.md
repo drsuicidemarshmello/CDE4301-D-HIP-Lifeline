@@ -80,7 +80,7 @@ While Port-a-Caths provide reliable long-term venous access, they require invasi
 ### Value Proposition
 Building upon the identified market gap, our team developed the following value proposition for Lifeline: **For cancer patients requiring repeated intravenous chemotherapy who decline port implantation, Lifeline aims to protect peripheral veins from chemotherapy-induced damage without the need for surgery or external tubing, enabling patients to complete their treatment with greater comfort and fewer vascular access-related complications.**
 
-Ultimately, Lifeline seeks to bridge the gap between existing peripheral and central venous access solutions by addressing both the clinical need for reliable chemotherapy administration and patients' preferences for less invasive treatment options.
+Ultimately, Lifeline seeks to bridge the gap between peripheral and central venous access solutions by balancing clinical reliability with patients' preferences for less invasive treatment options.
 
 ## Design Phase
 ### Design Criteria
