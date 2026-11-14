@@ -134,7 +134,7 @@ The design aims to establish a core-annular flow configuration, where chemothera
 
 The effectiveness of this approach would depend on several factors, including the relative flow rates of chemotherapy and the secondary fluid, catheter geometry, fluid properties, and interactions with the surrounding blood flow. These parameters will be investigated during the prototyping phase to determine whether a stable coaxial flow arrangement can be established and maintained under conditions representative of peripheral intravenous infusion.
 
-### CFD Findings
+### Prototyping Findings
 To evaluate the technical feasibility of our proposed catheter design, our team developed several catheter prototypes and conducted computational fluid dynamics (CFD) simulations using ANSYS Fluent. The simulations aimed to investigate whether modifications to catheter geometry and infusion flow patterns could reduce chemotherapy exposure and mechanical stress at the venous wall.
 
 Three catheter configurations were evaluated: a conventional PIVC serving as the baseline, a six-hole catheter featuring three pairs of side openings to redistribute fluid flow, and a dual-lumen catheter designed to deliver chemotherapy through a central channel surrounded by an annular saline flow. The simulations focused on three key evaluation parameters: chemotherapy exposure at the venous wall, assessed using peak and mean wall tracer mass fractions; mechanical stress on the venous wall, evaluated through peak and mean wall shear stress (WSS) and infusion flow characteristics, examined through tip exit velocity, velocity contours, flow pathlines, and tracer concentration distributions.
